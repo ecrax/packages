@@ -1,0 +1,15 @@
+[package]
+name = "island"
+version = "0.1.2"
+compiler = "0.10.0"
+entrypoint = "lib.typ"
+repository = "https://github.com/ecrax/packages"
+authors = ["Leo Kling <https://github.com/ecrax>"]
+license = "MIT-0"
+description = ""
+categories = ["paper"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"
